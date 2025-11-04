@@ -1,36 +1,25 @@
-# 👋 Привет, я Владислав Терсенев  
+# 👋 Hi, I'm Vladislav Tersenev
 
-**Frontend-разработчик из Тольятти**
+**Frontend-developer from Tolyatti**
 
-Создаю современные, быстрые и удобные интерфейсы. Люблю чистый код, понятную архитектуру и внимание к деталям.  
-Цель — развиваться до уровня strong middle и делать проекты, которыми приятно пользоваться.
+I create modern, fast and user-friendly interfaces. I love clean code, clear architecture, and attention to detail.  
+The goal is to develop to the level of strong middle and make projects that are pleasant to use.
 
 ---
 
-### 🧠 Основной стек  
+### 🧠 Technologies & Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,git,figma,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,scss,vite,git" />
 </p>
 
 ---
 
-### 🚀 Избранные проекты  
-
-| Проект | Описание | Ссылка |
-|--------|-----------|--------|
-| 🧑‍💻 **Portfolio** | Персональный сайт-портфолио. React + SCSS, адаптивная вёрстка. | [GitHub →](https://github.com/EroyEroy/portfolio) |
-| ✅ **Taskdly** | Мини-сервис для управления задачами. React, TypeScript, локальное хранилище. | [GitHub →](https://github.com/EroyEroy/taskdly) |
-| 🍞 **Baking-shop** | Интернет-магазин выпечки с фильтрацией и корзиной. | [GitHub →](https://github.com/EroyEroy/baking-shop) |
-| 🍣 **Roll-shop** | Витрина для доставки роллов — SPA на React с REST API. | [GitHub →](https://github.com/EroyEroy/roll-shop) |
-
----
-
-### 💬 Контакты  
+### 💬 Contacts  
 
 📱 Telegram: [@EroyEroy](https://t.me/EroyEroy)  
 ✉️ Email: [vladislavtersenev7@gmail.com](mailto:vladislavtersenev7@gmail.com)  
 
 ---
 
-> 💡 *Ищу команду, где смогу расти технически, писать чистый код и создавать качественные интерфейсы.*
+> 💡 *I am looking for a team where I can grow technically, write clean code and create high-quality interfaces.*
