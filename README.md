@@ -1,25 +1,29 @@
-# 👋 Hi, I'm Vladislav Tersenev
+<div align="center">
+
+# <img src="assets/Waving Hand Medium-Light Skin Tone.png" width="35" style="vertical-align: middle" /> Hi, I'm Vladislav Tersenev
 
 **Frontend-developer from Tolyatti**
 
-I create modern, fast and user-friendly interfaces. I love clean code, clear architecture, and attention to detail.  
-The goal is to develop to the level of strong middle and make projects that are pleasant to use.
+Frontend developer focused on building responsive, performant web applications.  
+Passionate about clean architecture, scalable code, and delivering polished user experiences.
 
 ---
 
-### 🧠 Technologies & Tools:
+### <img src="assets/Brain.png" width="30" style="vertical-align: middle" /> Technologies & Tools:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,scss,vite,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,scss,vite,figma,docker" />
+  <img src="assets/zustand.svg" height="50" />
+  <img src="assets/tanstack.svg" height="50" />
 </p>
 
 ---
 
-### 💬 Contacts  
+### <img src="assets/Call Me Hand.png" width="30" style="vertical-align: middle" /> Contacts
 
 📱 Telegram: [@EroyEroy](https://t.me/EroyEroy)  
-✉️ Email: [vladislavtersenev7@gmail.com](mailto:vladislavtersenev7@gmail.com)  
+✉️ Email: [vladislavtersenev7@gmail.com](mailto:vladislavtersenev7@gmail.com)
 
----
+<img src="assets/guts.gif" width="100%" height="500" />
 
-> 💡 *I am looking for a team where I can grow technically, write clean code and create high-quality interfaces.*
+</div>
